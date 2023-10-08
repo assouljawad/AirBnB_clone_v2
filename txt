@@ -1,0 +1,17 @@
+AUTHORS
+tests
+web_static
+README.md
+setup_mysql_dev.sql
+setup_mysql_test.sql
+test_params_create
+console.py
+file.json
+models
+0-setup_web_static.sh
+1-pack_web_static.py
+2-do_deploy_web_static.py
+__pycache__
+versions
+3-deploy_web_static.py
+txt
