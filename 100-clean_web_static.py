@@ -7,7 +7,7 @@ from fabric.api import env, put, run, local
 from fabric.decorators import task
 from os.path import exists
 
-env.hosts = ['54.210.121.255', '18.204.20.153']
+env.hosts = ['54.84.34.40', '34.204.60.217']
 
 
 @task
