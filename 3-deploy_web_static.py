@@ -9,7 +9,7 @@ from fabric.decorators import task, runs_once
 from os.path import exists
 import time
 
-env.hosts = ['54.210.121.255', '18.204.20.153']
+env.hosts = ['54.84.34.40', '34.204.60.217']
 
 
 @task
